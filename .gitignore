@@ -1,0 +1,10 @@
+/Release/
+
+/Debug/
+/DEBUG_BOOT/
+
+
+.DS_Store
+/BOOT/
+.settings/language.settings.xml
+/BOOT_DEBUG/
